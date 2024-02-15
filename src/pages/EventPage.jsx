@@ -101,7 +101,7 @@ export const EventPage = () => {
     <Card 
       m={"10px"} 
       bg={'white'} 
-      w={500} 
+      w={450} 
       key={event.id} >
 
       <CardHeader>
